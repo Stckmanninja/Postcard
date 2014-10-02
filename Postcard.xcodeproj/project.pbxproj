@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A6AF5CBA19D5D08800A88086 /* rometravelguide2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A6AF5CB919D5D08700A88086 /* rometravelguide2.jpg */; };
+		A6BE580819D33A570003CB17 /* 24796-league-of-legends-akali.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A6BE580719D33A570003CB17 /* 24796-league-of-legends-akali.jpg */; };
+		A6BE580A19D33B210003CB17 /* beautiful-rome-wallpapers-t.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A6BE580919D33B210003CB17 /* beautiful-rome-wallpapers-t.jpg */; };
 		A6D15DA219D0935600A9CC7E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6D15DA119D0935600A9CC7E /* AppDelegate.swift */; };
 		A6D15DA419D0935600A9CC7E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6D15DA319D0935600A9CC7E /* ViewController.swift */; };
 		A6D15DA719D0935600A9CC7E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A6D15DA519D0935600A9CC7E /* Main.storyboard */; };
@@ -26,6 +29,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		A6AF5CB919D5D08700A88086 /* rometravelguide2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = rometravelguide2.jpg; sourceTree = "<group>"; };
+		A6BE580719D33A570003CB17 /* 24796-league-of-legends-akali.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "24796-league-of-legends-akali.jpg"; sourceTree = "<group>"; };
+		A6BE580919D33B210003CB17 /* beautiful-rome-wallpapers-t.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "beautiful-rome-wallpapers-t.jpg"; sourceTree = "<group>"; };
 		A6D15D9C19D0935600A9CC7E /* Postcard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Postcard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A6D15DA019D0935600A9CC7E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A6D15DA119D0935600A9CC7E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -90,6 +96,9 @@
 		A6D15D9F19D0935600A9CC7E /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				A6AF5CB919D5D08700A88086 /* rometravelguide2.jpg */,
+				A6BE580919D33B210003CB17 /* beautiful-rome-wallpapers-t.jpg */,
+				A6BE580719D33A570003CB17 /* 24796-league-of-legends-akali.jpg */,
 				A6D15DA019D0935600A9CC7E /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -192,7 +201,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A6BE580819D33A570003CB17 /* 24796-league-of-legends-akali.jpg in Resources */,
 				A6D15DA719D0935600A9CC7E /* Main.storyboard in Resources */,
+				A6AF5CBA19D5D08800A88086 /* rometravelguide2.jpg in Resources */,
+				A6BE580A19D33B210003CB17 /* beautiful-rome-wallpapers-t.jpg in Resources */,
 				A6D15DAC19D0935600A9CC7E /* LaunchScreen.xib in Resources */,
 				A6D15DA919D0935600A9CC7E /* Images.xcassets in Resources */,
 			);
@@ -405,6 +417,7 @@
 				A6D15DBD19D0935600A9CC7E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A6D15DBE19D0935600A9CC7E /* Build configuration list for PBXNativeTarget "PostcardTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +426,7 @@
 				A6D15DC019D0935600A9CC7E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
